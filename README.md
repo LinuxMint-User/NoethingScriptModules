@@ -2,6 +2,8 @@
 
 NoethingScript 官方模块仓库，供模块管理器 `nsm` 安装模块使用（需解释器 2.8+）。GitHub 主仓库 + Gitee 镜像，按序回退。
 
+> 语言本体（解释器）：[NoethingScript](https://github.com/LinuxMint-User/NoethingScript)——安装说明、语言规范 `doc.md`、模块系统设计与维护指南都在解释器仓库。
+
 ## 安装
 
 ```bash
