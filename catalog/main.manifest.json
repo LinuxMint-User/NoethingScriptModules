@@ -13,6 +13,18 @@
       "zip": "nsmp@0.1.0-v2.7.zip"
     },
     {
+      "package": "queue",
+      "version": "0.1.0",
+      "ns": "2.7",
+      "zip": "queue@0.1.0-v2.7.zip"
+    },
+    {
+      "package": "set",
+      "version": "0.1.0",
+      "ns": "2.7",
+      "zip": "set@0.1.0-v2.7.zip"
+    },
+    {
       "package": "stack",
       "version": "0.1.0",
       "ns": "2.7",
