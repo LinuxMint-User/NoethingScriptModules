@@ -1,0 +1,28 @@
+{
+  "packages": [
+    {
+      "package": "nsm",
+      "version": "0.1.0",
+      "ns": "2.7",
+      "zip": "nsm@0.1.0-v2.7.zip"
+    },
+    {
+      "package": "nsmp",
+      "version": "0.1.0",
+      "ns": "2.7",
+      "zip": "nsmp@0.1.0-v2.7.zip"
+    },
+    {
+      "package": "stack",
+      "version": "0.1.0",
+      "ns": "2.7",
+      "zip": "stack@0.1.0-v2.7.zip"
+    },
+    {
+      "package": "tools",
+      "version": "0.1.0",
+      "ns": "2.7",
+      "zip": "tools@0.1.0-v2.7.zip"
+    }
+  ]
+}
