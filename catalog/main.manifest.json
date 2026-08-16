@@ -2,9 +2,9 @@
   "packages": [
     {
       "package": "nsm",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "ns": "2.8",
-      "zip": "nsm@0.1.0-v2.8.zip"
+      "zip": "nsm@0.1.1-v2.8.zip"
     },
     {
       "package": "nsmp",
